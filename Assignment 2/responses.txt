@@ -1,0 +1,4 @@
+Data travels the internet in packets. Each can hold up to 1500 bytes. These packets tell the computer the type of data it contains.
+IP is assigned to a certain computer and a DNS allows an IP to host a server.
+A cookie is a small collection of data for a specific website and computer.
+Three basic parts of a URl. Scheme, host, and a path. 
