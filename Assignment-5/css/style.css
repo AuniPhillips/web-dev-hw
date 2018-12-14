@@ -1,0 +1,37 @@
+/* Select the main container 'div' element */
+.main-container {
+  /*Draw a skyblue boder 6px thick. */
+  border-style: solid;
+  border-width: 10px;
+  border-color: skyblue;
+  /* Add space between the border and its inside elements.*/
+  padding: 10px;
+  /* Color the background pink. */
+  background: pink;
+  background-image: url("../images/1980s-04.png")
+}
+
+/* Select all h1 elements. */
+.centered {
+  text-align: center;
+}
+h1 {
+    /*
+    /* Draw a violet border 6px thick around ONLY the h1 element. */
+    text-align:center;
+    border-style: solid;
+    border-width: 6px;
+    border-color: violet;
+    background: white;
+    display: inline-block;
+    margin: auto;
+}
+
+/* Select ALL paragraph elements. */
+p {
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-color: lightgreen;
+    background: white;
+}

@@ -1,0 +1,37 @@
+/* Color the background lightyellow. */
+body {
+  background-color: lightyellow;
+}
+/* Select the main container 'div' element */
+.main-container {
+  /*Draw a powderblue border 3px thick. */
+  border-style: solid;
+  border-width: 3px;
+  border-color: powderblue;
+  margin: left;
+  /* Add space between the border and its inside elements.*/
+  padding: 10px;
+  /* Color the background white. */
+  background: white;
+}
+
+#introduction {
+  font-family: 'Lobster Two', cursive;
+  color: powderblue;
+}
+
+/* Select all h1 elements. */
+#part-one {
+  text-align: center;
+  font-family:'Bad Script', cursive;
+  color: #E186F1;
+  }
+
+a {
+  font-size: 20px;
+  color: #E186F1;
+}
+
+a:hover {
+  color: powderblue;
+}
