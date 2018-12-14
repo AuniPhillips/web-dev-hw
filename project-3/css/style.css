@@ -1,0 +1,30 @@
+body{
+  background-image: url("../images/Balloons.jpg");
+  background-size: cover;
+
+}
+/* Select the Main Container div element */
+.main-container {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 70px;
+  text-align: center;
+}
+
+#part-one {
+  font-family: 'Gochi Hand', cursive;
+  text-align: left;
+  font-size: 50px;
+}
+
+#part-two {
+
+}
+
+a {
+  font-size: 20px;
+  color: #A23583;
+}
+
+a:hover {
+  color: #ED3CEA;
+}
